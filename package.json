@@ -1,6 +1,6 @@
 {
   "name": "log.h",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal yet colorful logging lib.",
   "main": "index.js",
   "repository": {
