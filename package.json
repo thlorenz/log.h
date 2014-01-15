@@ -1,8 +1,8 @@
 {
   "name": "log.h",
+  "main":  "log.h",
   "version": "0.1.2",
   "description": "Minimal yet colorful logging lib.",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/thlorenz/log.h.git"
