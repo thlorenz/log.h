@@ -1,21 +1,28 @@
 {
-  "name" : "log.h",
-  "version" : "0.0.0",
-  "description" : "Minimal yet colorful logging lib.",
-  "main" : "index.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "git://github.com/thlorenz/log.h.git"
+  "name": "log.h",
+  "version": "0.1.0",
+  "description": "Minimal yet colorful logging lib.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/log.h.git"
   },
-  "sources": [ "log.h" ],
-  "homepage" : "https://github.com/thlorenz/log.h",
-  "keywords": [ "log", "debug", "print", "diagnostics" ] ,
-  "author" : {
-    "name" : "Thorsten Lorenz",
-    "email" : "thlorenz@gmx.de",
-    "url" : "http://thlorenz.com"
+  "sources": [
+    "log.h"
+  ],
+  "homepage": "https://github.com/thlorenz/log.h",
+  "keywords": [
+    "log",
+    "debug",
+    "print",
+    "diagnostics"
+  ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
   },
-  "license" : {
+  "license": {
     "type": "MIT",
     "url": "https://github.com/thlorenz/log.h/blob/master/LICENSE"
   }
