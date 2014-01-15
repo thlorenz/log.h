@@ -2,19 +2,20 @@
 
 Minimal yet colorful logging lib.
 
-```js
-// TODO
+```C
+log_info("logging an info message");
+log_warn("logging a warn message");
+log_debug("logging a debug message");
+log_err("logging an error");
 ```
 
-## Status
+![screenshot](https://raw.github.com/thlorenz/log.h/master/assets/screenshot.png)
 
-Nix, Nada, Nichevo, Nothing --> go away!
+Both `log_err` and `log_warn` append last error (`errno`) to message.
+
 ## Installation
 
-    npm install log.h
-
-## API
-
+    clib install log.h
 
 ## License
 
