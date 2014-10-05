@@ -17,6 +17,14 @@ Both `log_err` and `log_warn` append last error (`errno`) to message.
 
     clib install thlorenz/log.h
 
+## Disabling Colors
+
+```c
+#define LOG_NOCOLORS 1
+#include "log.h"
+/ * log without colors */
+```
+
 ## License
 
 MIT

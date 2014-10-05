@@ -1,3 +1,6 @@
+/* turn off colors BEFORE including log.h */
+/* #define LOG_NOCOLORS 1 */
+
 #include "log.h"
 
 int main(void) {
