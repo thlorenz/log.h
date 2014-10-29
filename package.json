@@ -1,7 +1,7 @@
 {
   "name": "log.h",
   "main": "log.h",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Minimal yet colorful logging lib.",
   "repository": {
     "type": "git",
